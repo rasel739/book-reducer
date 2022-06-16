@@ -31,6 +31,10 @@ let array2 = [
     name: "watch",
     price: 50,
   },
+  {
+    name: "watch",
+    price: 50,
+  },
 ];
 
 let result2 = array2.reduce((prev, curr) => {
@@ -38,3 +42,7 @@ let result2 = array2.reduce((prev, curr) => {
 }, 0);
 
 console.log(result2);
+
+let fullName = "Rasel Hossain";
+
+console.log(fullName);
