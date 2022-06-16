@@ -39,14 +39,24 @@ _I am Rasel Hossain and old is 23 years old_
 
 `npm start`
 
-```
-<!Doctype html>
+```html
+<!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <title>Book Reducer</title>
-</head>
-<body>
-<h1>Our Book Reducer</h1>
-</body>
+  </head>
+  <body>
+    <h1>Our Book Reducer</h1>
+  </body>
 </html>
+```
+
+```javascript
+console.log("Rasel Hossain");
+```
+
+```css
+body {
+  background: red;
+}
 ```
