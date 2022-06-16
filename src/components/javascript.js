@@ -50,3 +50,7 @@ console.log(fullName);
 let previousName = "Naser Ahmed";
 
 console.log(previousName);
+
+for (let i = 0; i < 100; i++) {
+  console.log("Hello Bangladesh");
+}
