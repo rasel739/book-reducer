@@ -46,3 +46,7 @@ console.log(result2);
 let fullName = "Rasel Hossain";
 
 console.log(fullName);
+
+let previousName = "Naser Ahmed";
+
+console.log(previousName);
